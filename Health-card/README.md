@@ -1,7 +1,7 @@
 # Health-card
 Health card system <br>
-A webside for issusing Health card <br>
-A small project by me and my friends for collage<br>
+A website for issusing Health card <br>
+A minor project by me and my friends for college <br>
 Team Name :-<br>
 Shreyashri Ghosh<br>
 Ankit Kharwar<br>
